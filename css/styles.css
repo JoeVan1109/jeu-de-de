@@ -16,6 +16,7 @@ body {
   background-color: #f39c12;
   height: 50%;
   display: none;
+  
 }
 
 #dealer {
@@ -24,6 +25,7 @@ body {
   background-color: #e67e22;
   height: 50%;
   display: none;
+
 }
 
 .board {
