@@ -13,6 +13,7 @@ body {
 
 #player {
   position: absolute;
+  bottom: 50%;
   background-color: #f39c12;
   height: 50%;
   display: none;
